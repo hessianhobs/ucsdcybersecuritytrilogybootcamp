@@ -1,0 +1,61 @@
+Summary: Data below correlates Dealer Billy Jones and Player Mylie Scmidt to events suspect to colluding to steal money from Lucky Duck. Records report losses in revenue ranging from $65K to $182,300K, 
+track 15 time stamps instances spread throughout morning, afternoon, night, and graveyard shift when Billy Jones worked at the Roulette Tables on March 10, 12 and 15 and at the same times and days when
+Mylie Schmidt played Roulette at at total of 13 instances. Times for losses were identified. The times were then tied to the Players' Names. Lastly, Mylie Schmidt has been flagged as playing at 
+all instances. These time anomolies were then tracked to the Roulette Dealer Billy Jones.  
+
+05:00:00 AM Billy Jones
+05:00:00 AM Billy Jones
+05:00:00 AM Billy Jones
+08:00:00 AM Billy Jones
+08:00:00 AM Billy Jones
+08:00:00 AM Billy Jones
+02:00:00 PM Billy Jones
+02:00:00 PM Billy Jones
+02:00:00 PM Billy Jones
+08:00:00 PM Billy Jones
+08:00:00 PM Billy Jones
+08:00:00 PM Billy Jones
+11:00:00 PM Billy Jones
+11:00:00 PM Billy Jones
+11:00:00 PM Billy Jones
+15 Dealers_working_during_losses
+05:00:00
+08:00:00
+02:00:00
+08:00:00
+11:00:00
+05:00:00
+08:00:00
+02:00:00
+08:00:00
+11:00:00
+05:00:00
+08:00:00
+02:00:00
+05:00:00 AM	-$82,348	Amirah Schneider,Nola Portillo, Mylie Schmidt,Suhayb Maguire,Millicent Betts,Avi Graves
+08:00:00 AM	-$97,383	Chanelle Tapia, Shelley Dodson , Valentino Smith, Mylie Schmidt
+02:00:00 PM	-$82,348	Jaden Clarkson, Kaidan Sheridan, Mylie Schmidt 
+08:00:00 PM	-$65,348        Mylie Schmidt, Trixie Velasquez, Jerome Klein ,Rahma Buckley
+11:00:00 PM	-$88,383	Mcfadden Wasim, Norman Cooper, Mylie Schmidt
+05:00:00 AM	-$182,300	Montana Kirk, Alysia Goodman, Halima Little, Etienne Brady, Mylie Schmidt
+08:00:00 AM	-$97,383        Rimsha Gardiner,Fern Cleveland, Mylie Schmidt,Kobe Higgins	
+02:00:00 PM	-$82,348        Mae Hail,  Mylie Schmidt,Ayden Beil	
+08:00:00 PM	-$65,792        Tallulah Rawlings,Josie Dawe, Mylie Schmidt,Hakim Stott, Esther Callaghan, Ciaron Villanueva	
+11:00:00 PM	-$88,229        Vlad Hatfield,Kerys Frazier,Mya Butler, Mylie Schmidt,Lex Oakley,Elin Wormald	
+05:00:00 AM	-$82,844        Arjan Guzman,Sommer Mann, Mylie Schmidt	
+08:00:00 AM	-$97,001        Lilianna Devlin,Brendan Lester, Mylie Schmidt,Blade Robertson,Derrick Schroeder	
+02:00:00 PM	-$182,419        Mylie Schmidt, Corey Huffman
+05:00:00 AM	-$82,348	Amirah Schneider,Nola Portillo,  FLAG PLAYER - MYLIE SCHMIDT : ALERT! ,Suhayb Maguire,Millicent Betts,Avi Graves
+08:00:00 AM	-$97,383	Chanelle Tapia, Shelley Dodson , Valentino Smith,  FLAG PLAYER - MYLIE SCHMIDT : ALERT! 
+02:00:00 PM	-$82,348	Jaden Clarkson, Kaidan Sheridan,  FLAG PLAYER - MYLIE SCHMIDT : ALERT!  
+08:00:00 PM	-$65,348         FLAG PLAYER - MYLIE SCHMIDT : ALERT! , Trixie Velasquez, Jerome Klein ,Rahma Buckley
+11:00:00 PM	-$88,383	Mcfadden Wasim, Norman Cooper,  FLAG PLAYER - MYLIE SCHMIDT : ALERT! 
+05:00:00 AM	-$182,300	Montana Kirk, Alysia Goodman, Halima Little, Etienne Brady,  FLAG PLAYER - MYLIE SCHMIDT : ALERT! 
+08:00:00 AM	-$97,383        Rimsha Gardiner,Fern Cleveland,  FLAG PLAYER - MYLIE SCHMIDT : ALERT! ,Kobe Higgins	
+02:00:00 PM	-$82,348        Mae Hail,   FLAG PLAYER - MYLIE SCHMIDT : ALERT! ,Ayden Beil	
+08:00:00 PM	-$65,792        Tallulah Rawlings,Josie Dawe,  FLAG PLAYER - MYLIE SCHMIDT : ALERT! ,Hakim Stott, Esther Callaghan, Ciaron Villanueva	
+11:00:00 PM	-$88,229        Vlad Hatfield,Kerys Frazier,Mya Butler,  FLAG PLAYER - MYLIE SCHMIDT : ALERT! ,Lex Oakley,Elin Wormald	
+05:00:00 AM	-$82,844        Arjan Guzman,Sommer Mann,  FLAG PLAYER - MYLIE SCHMIDT : ALERT! 	
+08:00:00 AM	-$97,001        Lilianna Devlin,Brendan Lester,  FLAG PLAYER - MYLIE SCHMIDT : ALERT! ,Blade Robertson,Derrick Schroeder	
+02:00:00 PM	-$182,419         FLAG PLAYER - MYLIE SCHMIDT : ALERT! , Corey Huffman
+13 Roulette_Losses_Times_Player
